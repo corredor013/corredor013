@@ -2,8 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GameShop - Sua loja de games</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link>href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gradient-to-br from-blue-900 via-black to-blue-900 text-white">  <!-- Cabeçalho -->  <header class="bg-black text-white p-4 shadow-md">
     <div class="container mx-auto flex justify-between items-center">
